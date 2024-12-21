@@ -7,6 +7,9 @@ This smart contract allows participants to earn rewards for completing medical e
 ## Contract Address
 0xC1105580E68A949bFB9d79B8aae735cD495221Fe
 
+![image](https://github.com/user-attachments/assets/06600aca-c148-409f-aa90-41e030b3ce97)
+
+
 ## Project Vision
 The vision of this project is to create a decentralized platform that rewards participants for engaging in medical education simulations. This system will foster more engagement in medical learning by providing tangible rewards while using blockchain technology to track progress transparently and securely.
 
